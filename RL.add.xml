@@ -11,4 +11,4 @@
     <laneAreaDetector id="Node2_7_SB_0" lane="Node2_7_SB_0" pos="60.18" length="10.00" period="300.00" file="e2_3.xml"/>
     <laneAreaDetector id="Node2_7_SB_1" lane="Node2_7_SB_1" pos="60.82" length="10.00" period="300.00" file="e2_1.xml"/>
     <laneAreaDetector id="Node2_7_SB_2" lane="Node2_7_SB_2" pos="60.41" length="10.00" period="300.00" file="e2_7.xml"/>
-</additional>
+</additional>   
